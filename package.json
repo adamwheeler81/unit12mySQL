@@ -1,0 +1,18 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.10.0"
+  },
+  "description": "Express Note Taker",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Adam Wheeler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "uuidv1": "^1.6.14",
+    "inquirer": "^6.3.1"
+  }
+}
